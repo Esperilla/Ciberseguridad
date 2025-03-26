@@ -1,0 +1,12 @@
+Dirección
+Teléfono
+texto
+Tarea
+
+Comentario
+Crawler
+Clave
+
+Texto con datos útiles
+
+enlaces
